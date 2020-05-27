@@ -4,7 +4,6 @@ title: Research
 permalink: Research.html
 ---
 
-<div class="blurb">
   <!-- PhD -->
   <h2>
     PhD Research:
@@ -237,5 +236,3 @@ permalink: Research.html
     <a href="https://link.springer.com/article/10.1007/s11517-014-1185-3"
     class="button" style="vertical-align:middle"><span>MBEC 2014</span></a>
   </p>
-
-</div><!-- /.blurb -->
