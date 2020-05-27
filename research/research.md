@@ -16,6 +16,9 @@ permalink: Research.html
 		I develop <strong>algorithms</strong> and <strong>models</strong> that allow robots to intelligently and autonomously interact with and learn from their environment in the real-world. I have worked on both <strong>model-based</strong> and <strong>machine learning</strong> approaches and believe there is a world in which we can combine our knowledge of physics and data-driven approaches to garner the best of both worlds.
 	</p>
   <p>
+		Why Manipulation? Manipulation is key to realizing the promise of robotics: a solution to some of society's biggest challenges including patient care, industrial automation, and disaster response.
+	</p>
+  <p>
       Some of the projects I have worked on:
   </p>
 
