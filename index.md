@@ -7,7 +7,7 @@ title: Xiyang Yeh
 	Xiyang Yeh
 	</h1>
 	<p>
-		<img src="{{site..baseurl }}/assets/me1.jpg" alt="Nima!" style="float:right;width:50%;" hspace="25">
+		<img src="{{site..baseurl }}/assets/robot_shot" alt="Nima!" style="float:right;width:50%;" hspace="25">
 	</p>
 	<p>
 	<strong>Update:</strong> I'll be joining the <a href="https://umich.edu/" target="_blank">University of Michigan, Ann Arbor</a> as an assistant professor with the <a href="https://robotics.umich.edu/" target="_blank">Robotics Institute</a> and the <a href="https://me.engin.umich.edu/" target="_blank">Mechanical Engineering Department</a> in the Fall of 2020! Visit <a href="https://robotics.umich.edu/profile/nima-fazeli/" target="_blank">our lab</a> page for more information.
