@@ -9,11 +9,11 @@ title: Xiyang Yeh
 	<p>
 		<img src="{{site..baseurl }}/assets/me1.jpg" alt="Nima!" style="float:right;width:50%;" hspace="25">
 	</p>
-	<p>
+<!-- 	<p>
 	<strong>Update:</strong> I'll be joining the <a href="https://umich.edu/" target="_blank">University of Michigan, Ann Arbor</a> as an assistant professor with the <a href="https://robotics.umich.edu/" target="_blank">Robotics Institute</a> and the <a href="https://me.engin.umich.edu/" target="_blank">Mechanical Engineering Department</a> in the Fall of 2020! Visit <a href="https://robotics.umich.edu/profile/nima-fazeli/" target="_blank">our lab</a> page for more information.
-	</p>
+	</p> -->
 	<p>
-		I am interested in <strong>Inference</strong>, <strong>Modeling</strong>,
+		Welcome to my personal page! This is a blog for things I encounter while doing R&D in the areas of robotics, 		     controls and learning. I am interested in <strong>Inference</strong>, <strong>Modeling</strong>,
 		<strong>Control</strong>, and <strong>Learning</strong> algorithms
 		applied to <strong>Robotic Manipulation</strong>,
 		the science and art of robots interacting with their world.
