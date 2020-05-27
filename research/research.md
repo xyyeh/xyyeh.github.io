@@ -54,7 +54,7 @@ permalink: Research.html
     Task-prioritized Multi-task Control Framework for Mobile Manipulators
   </h3>
   <p>
-		<img src="{{site..baseurl }}/assets/inference_1.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25" vspace="50">
+		<img src="{{site..baseurl }}/assets/ControlNullspace.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25" vspace="50">
 	</p>
   <p>
 		Let's assume we have a rigid-body system (for example a robotic manipulator) making and breaking contact with the environment. How can we infer physical properties such masses, inertias, and contact properties simultanously with contact forces? Most importantly, how can we infer these properties without breaking the trajectory into contact-free and contacting segments and individually studying each? Is there a way in which we can consider the full trajectory of the system including contacts in one framework?
@@ -237,24 +237,6 @@ permalink: Research.html
     <a href="https://link.springer.com/article/10.1007/s11517-014-1185-3"
     class="button" style="vertical-align:middle"><span>MBEC 2014</span></a>
   </p>
-  <!-- Entry 4 -->
-  <hr>
-  <h3>
-    Pharmacodynamics/pharmacokinetics of Diabetes in Humans
-  </h3>
-  <p>
-    <img src="{{site..baseurl }}/assets/tube-load-3.jpeg" alt="Inference1" style="float:right;width:40%;" hspace="25">
-  </p>
-  <p>
-    Pharmacodynamics/pharmacokinetics describe the way in which medication and its effects propagate through the body. In particular, they relate the dose and time of dosage to the propagation and concentration of the medication in the body. Further, they model the effects of the medication on various end-point measures. For example, patients with diabetes consume a dosage of insulin that then affects several end-point responses.
-  </p>
-  <p>
-    In this study, we proposed a novel method to derive data-driven model of pharmacological systems that is built upon information fusion of endpoint responses. We show the system's identifiability by analyzing a relation between endpoint responses and demonstrate that it is fully identifiable in case all the responses involve effect compartments. We demonstrate the efficacy of the method on several benchmark pharmacological modeling problems. This approach is an important step towards tailoring drug dose to a patients physiology.
-  </p>
-  <p>
-    <a href="https://www.sciencedirect.com/science/article/pii/S0010482515000888"
-    class="button" style="vertical-align:middle"><span>CBME 2015</span></a>
-  </p>
-
+  
 </div>
 <!-- /.blurb -->
