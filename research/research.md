@@ -10,31 +10,31 @@ permalink: Research.html
     PhD Research:
   </h2>
 
-  <p>
+  <!-- <p>
 		My research interests are in <strong>Inference</strong>, <strong>Modeling/Simulation</strong>, <strong>Control</strong>, and <strong>Learning</strong> applied to <strong>Robotic Manipulation</strong>. I am interested in the complex and exciting world of physical interactions, these interactions are fundamental to the utility of real-world agents. Physical interactions are complex because they are <strong>hybrid</strong>, which means that the dynamics of the robot change as it comes into contact and whether the type of contact is permitted to stick or slide. These interactions are also <strong>difficult to model</strong> because of the complex nature of frictional contact. Though contact is complex, it provides us with a wealth of information which we can use to make <strong>inferences</strong> about the world.
-	</p>
+	</p> -->
 
-  <p>
+  <!-- <p>
 		I develop <strong>algorithms</strong> and <strong>models</strong> that allow robots to intelligently and autonomously interact with and learn from their environment in the real-world. I have worked on both <strong>model-based</strong> and <strong>machine learning</strong> approaches and believe there is a world in which we can combine our knowledge of physics and data-driven approaches to garner the best of both worlds.
-	</p>
-	<p>
+	</p> -->
+	<!-- <p>
 		<strong>Why Manipulation?</strong> Manipulation is key to realizing the promise of robotics: a solution to some of society's biggest challenges -- including patient care, industrial automation, and disaster response. Central to these challenges is a robot's ability to control its environment through selective contact and yet, despite its importance, manipulation is still an open problem. As robots touch their environment, they change it. The characteristic challenge in manipulation is that robots have to reason about and cause this change in partially unknown environments using noisy and incomplete sensory information. How do we build agents that reason about this change intelligently?
-	</p>
+	</p> -->
 <p>
 		Some of the projects I have worked on:
 </p>
 
 <!-- Entry 1 -->
   <hr>
-  <h3>
+  <!-- <h3>
     Hierarchical Manipulation Skill Learning
-  </h3>
+  </h3> -->
   <p>
 		<img src="{{site..baseurl }}/assets/jenga.JPG" alt="Inference1" style="float:right;width:40%;" hspace="25" vspace="50">
 	</p>
-  <p>
+  <!-- <p>
 		As humans, we are able to seamlessly integrate our senses of sight and touch to learn about our physical world. These two modalities provide complementary information, for where sight provides global but coarse information, touch provides dense and highly descriminative but very local information. Not only do we see and feel our world, but we also catagorize and build useful abstractions to facilitate our manipulation skills. For example, when interacting with a door, we may infer it is locked or open (two useful abstractions we have constructed) through how it feels and moves. In this project, we explore how to enable a robot to autonomously build useful abstractions and physics models, in the joint domain of touch and vision, for a robot learning the mechanics of Jenga.
-	</p>
+	</p> -->
   <p>
 		Jenga captures some of the essential challenges in robotic manipulation: i) it requires sight and touch to be played, ii) it is a partial information game, iii) tower resets are expensive and time-consuming so data efficiency is critical. To touch on partial information, just from vision, it is practically impossible to tell which blocks move and which don't. This is because the mechanics of block motion are governed by micro-frictional interactions and weight distributions that are unobservable with the visual data-stream. The only way to recover necessary information is through interaction. We demonstrate that the robot is able to learn useful abstractions such as blocks that move easily or are stuck, and uses this information together with motion models to accurately and carefully extract blocks.
 	</p>
