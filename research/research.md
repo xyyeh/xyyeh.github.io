@@ -19,22 +19,22 @@ permalink: Research.html
 	<p>
 		<strong>Why Manipulation?</strong> Manipulation is key to realizing the promise of robotics: a solution to some of society's biggest challenges -- including patient care, industrial automation, and disaster response. Central to these challenges is a robot's ability to control its environment through selective contact and yet, despite its importance, manipulation is still an open problem. As robots touch their environment, they change it. The characteristic challenge in manipulation is that robots have to reason about and cause this change in partially unknown environments using noisy and incomplete sensory information. How do we build agents that reason about this change intelligently?
 	</p> -->
-  
+
 <p>
 		Some of the projects I have worked on:
 </p>
 
 <!-- Entry 1 -->
   <hr>
-  <!-- <h3>
+  <h3>
     Hierarchical Manipulation Skill Learning
-  </h3> -->
+  </h3>
   <p>
 		<img src="{{site..baseurl }}/assets/jenga.JPG" alt="Inference1" style="float:right;width:40%;" hspace="25" vspace="50">
 	</p>
-  <!-- <p>
+  <p>
 		As humans, we are able to seamlessly integrate our senses of sight and touch to learn about our physical world. These two modalities provide complementary information, for where sight provides global but coarse information, touch provides dense and highly descriminative but very local information. Not only do we see and feel our world, but we also catagorize and build useful abstractions to facilitate our manipulation skills. For example, when interacting with a door, we may infer it is locked or open (two useful abstractions we have constructed) through how it feels and moves. In this project, we explore how to enable a robot to autonomously build useful abstractions and physics models, in the joint domain of touch and vision, for a robot learning the mechanics of Jenga.
-	</p> -->
+	</p>
   <p>
 		Jenga captures some of the essential challenges in robotic manipulation: i) it requires sight and touch to be played, ii) it is a partial information game, iii) tower resets are expensive and time-consuming so data efficiency is critical. To touch on partial information, just from vision, it is practically impossible to tell which blocks move and which don't. This is because the mechanics of block motion are governed by micro-frictional interactions and weight distributions that are unobservable with the visual data-stream. The only way to recover necessary information is through interaction. We demonstrate that the robot is able to learn useful abstractions such as blocks that move easily or are stuck, and uses this information together with motion models to accurately and carefully extract blocks.
 	</p>
