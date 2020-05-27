@@ -15,9 +15,6 @@ permalink: Research.html
   <p>
 		I develop <strong>algorithms</strong> and <strong>models</strong> that allow robots to intelligently and autonomously interact with and learn from their environment in the real-world. I have worked on both <strong>model-based</strong> and <strong>machine learning</strong> approaches and believe there is a world in which we can combine our knowledge of physics and data-driven approaches to garner the best of both worlds.
 	</p>
-	<p>
-		Why Manipulation? Manipulation is key to realizing the promise of robotics: a solution to some of society's biggest challenges including patient care, industrial automation, and disaster response. Central to these challenges is a robot's ability to control its environment through selective contact and yet, despite its importance, manipulation is still an open problem. As robots touch their environment, they change it. The characteristic challenge in manipulation is that robots have to reason about and cause this change in partially unknown environments using noisy and incomplete sensory information. How do we build agents that reason about this change intelligently?
-	</p>
   <p>
       Some of the projects I have worked on:
   </p>
