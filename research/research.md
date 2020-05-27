@@ -4,7 +4,7 @@ title: Research
 permalink: Research.html
 ---
 
-<!-- <div class="blurb"> -->
+<div class="blurb">
   <!-- PhD -->
   <h2>
     PhD Research:
@@ -238,4 +238,4 @@ permalink: Research.html
     class="button" style="vertical-align:middle"><span>MBEC 2014</span></a>
   </p>
 
-<!-- /.blurb -->
+</div><!-- /.blurb -->
