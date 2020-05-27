@@ -19,7 +19,7 @@ permalink: Research.html
 	</p>
 
 	<p>
-		<strong>Why Manipulation?</strong> Manipulation is key to realizing the promise of robotics: a solution to some of society's biggest challenges -- including patient care, industrial automation, and disaster response. Central to these challenges is a robot's ability to control its environment through selective contact and yet, despite its importance, manipulation is still an open problem. As robots touch their environment, they change it. The characteristic challenge in manipulation is that robots have to reason about and cause this change in partially unknown environments using noisy and incomplete sensory information. How do we build agents that reason about this change intelligently?
+		<strong>Why Manipulation?</strong> Manipulation is key to realizing the promise of robotics: a solution to some of society's biggest challenges including patient care, industrial automation, and disaster response. Central to these challenges is a robot's ability to control its environment through selective contact and yet, despite its importance, manipulation is still an open problem. As robots touch their environment, they change it. The characteristic challenge in manipulation is that robots have to reason about and cause this change in partially unknown environments using noisy and incomplete sensory information. How do we build agents that reason about this change intelligently?
 	</p>
 
   <p>
