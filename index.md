@@ -9,40 +9,25 @@ title: Xiyang Yeh
 	<p>
 		<img src="{{site..baseurl }}/assets/me1.jpg" alt="Me!" style="float:right;width:50%;" hspace="25">
 	</p>
-<!-- 	<p>
-	<strong>Update:</strong> I'll be joining the <a href="https://umich.edu/" target="_blank">University of Michigan, Ann Arbor</a> as an assistant professor with the <a href="https://robotics.umich.edu/" target="_blank">Robotics Institute</a> and the <a href="https://me.engin.umich.edu/" target="_blank">Mechanical Engineering Department</a> in the Fall of 2020! Visit <a href="https://robotics.umich.edu/profile/nima-fazeli/" target="_blank">our lab</a> page for more information.
-	</p> -->
+
 	<p>
-		Welcome to my personal page! This is a blog for things I encounter while doing R&D in the areas of robotics, 		     controls and learning. I am interested in <strong>Inference</strong>, <strong>Modeling</strong>,
-		<strong>Control</strong>, and <strong>Learning</strong> algorithms
-		applied to <strong>Robotic Manipulation</strong>,
-		the science and art of robots interacting with their world.
-		I am a member of the <a href="http://mcube.mit.edu/" target="_blank">
-		MCube Lab</a>, directed by
-		<a href="http://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU" target="_blank">
-		Prof. Alberto Rodriguez</a>.
+		Welcome to my personal page! This is a blog for things I encounter while doing R&D in the aspects of <strong>modeling</strong>, <strong>controls</strong>, <strong>optimization</strong>, <strong>hardware design</strong> and <strong>learning</strong> applied to <strong>robotic manipulation</strong>, i.e., the science and art behind how robots interact with the world. I did my MSc and PhD at Stanford AI Laboratory's <a href="https://cs.stanford.edu/groups/manips/" target="_blank">
+		Robotics Group</a>, directed by
+		<a href="http://khatib.stanford.edu/ok-bio.html" target="_blank">
+		Prof. Oussama Khatib</a>.
 	</p>
 
 	<p>
-		Prior to MIT, I was an MSc student in Mechanical Engineering at
-		the University of Maryland at College Park, were I (mostly) worked on system
-		identification and modeling of the human arterial tree and
-		the pharmacokinetics/pharmacodynamics of the human body.
+		Prior to Stanford, I was a researcher at <a href="https://www.a-star.edu.sg/simtech" target="_blank">
+		Singapore Institude of Manufacturing Technology</a> where I mostly worked on controls and design of industrial robots and inspection systems based on continuum kinematics.
 	</p>
 
 	<p>
-		I have a BSc from Amirkabir University of Technology, were I worked
-		on adaptive and nonlinear control and identification of vehicle engines.
+		I have a BSc from National University of Singapore, where I worked
+		on controls of humanoids and hardware parallelization computer vision algorithms.
 	</p>
 
 	<p>
 		<a href="/Research">Read more about my work here!</a>
-	</p>
-
-	<p>
-		P.S. This website was made by <a href="https://jekyllrb.com/" target="_blank"> Jekyll </a>
-		and the source code for it is available
-		<a href="https://github.com/Nima-Fazeli/Nima-Fazeli.github.io" target="_blank"> here</a>,
-		feel free to use it!
 	</p>
 </div><!-- /.blurb -->
