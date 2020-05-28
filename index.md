@@ -23,8 +23,7 @@ title: Xiyang Yeh
 	</p>
 
 	<p>
-		I have a BEng from National University of Singapore, where I worked
-		on controls of humanoids and hardware parallelization computer vision algorithms.
+		I have a BEng from National University of Singapore, where I was involved in controls of humanoids and hardware parallelization of computer vision algorithms.
 	</p>
 
 	<p>
