@@ -28,7 +28,7 @@ permalink: Research.html
     Manipulator Performance With Polytope Representations
   </h3>
   <p>
-		<img src="{{site..baseurl }}/assets/ControlNullspace.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25" vspace="50">
+		<img src="{{site..baseurl }}/assets/polytope.png" alt="Inference1" style="float:right;width:40%;" hspace="25" vspace="50">
 	</p>
   <p>
 		As humans, we are able to seamlessly integrate our senses of sight and touch to learn about our physical world. These two modalities provide complementary information, for where sight provides global but coarse information, touch provides dense and highly descriminative but very local information. Not only do we see and feel our world, but we also catagorize and build useful abstractions to facilitate our manipulation skills. For example, when interacting with a door, we may infer it is locked or open (two useful abstractions we have constructed) through how it feels and moves. In this project, we explore how to enable a robot to autonomously build useful abstractions and physics models, in the joint domain of touch and vision, for a robot learning the mechanics of Jenga.
@@ -38,9 +38,7 @@ permalink: Research.html
 	</p>
   <p>
     <a href="http://robotics.sciencemag.org/content/4/26/eaav3123.abstract"
-    class="button" style="vertical-align:middle"><span>Science Robotics 2019</span></a>
-    <a href="https://www.youtube.com/watch?v=o1j_amoldMs&index=5&list=FLDIQ_zHAGl9cZpanMUAC75g&t=4s"
-    class="button" style="vertical-align:middle"><span>Jenga Video 2019</span></a>
+    class="button" style="vertical-align:middle"><span>Details</span></a>
   </p>
 
 
@@ -60,9 +58,9 @@ permalink: Research.html
 	</p>
   <p>
     <a href="https://link.springer.com/chapter/10.1007/978-3-319-60916-4_38"
-    class="button" style="vertical-align:middle"><span>ISRR 2015</span></a>
+    class="button" style="vertical-align:middle"><span>Article on OSC</span></a>
 		<a href="http://journals.sagepub.com/doi/abs/10.1177/0278364917698749"
-		class="button" style="vertical-align:middle"><span>IJRR 2017</span></a>
+		class="button" style="vertical-align:middle"><span>Github</span></a>
   </p>
 <!-- Entry 2 -->
   <hr>
@@ -85,11 +83,9 @@ permalink: Research.html
     Data serves as a critical component to the evaluation and development of models (whether data-driven or analytical). In a parallel project to the planar impact experiments, we collected the largest experimental planar pushing data-set available in robotics. We collected planar pushing data for a wide variety of surfaces, speeds, and objects. This data-set has found great utility in the community for model learning, validation, and controls.
   <p>
     <a href="https://ieeexplore.ieee.org/document/7989389/#full-text-section"
-    class="button" style="vertical-align:middle"><span>ICRA 2017</span></a>
+    class="button" style="vertical-align:middle"><span>Macro/Mini Actuation</span></a>
     <a href="https://arxiv.org/abs/1710.04979"
-    class="button" style="vertical-align:middle"><span>ISRR 2017</span></a>
-    <a href="https://ieeexplore.ieee.org/abstract/document/7758091/"
-    class="button" style="vertical-align:middle"><span>IROS 2016</span></a>
+    class="button" style="vertical-align:middle"><span>Macro/Mini Structures</span></a>
   </p>
 <!-- Entry 3 -->
   <hr>
