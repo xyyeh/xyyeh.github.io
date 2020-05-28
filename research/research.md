@@ -28,7 +28,7 @@ permalink: Research.html
     Manipulator Performance With Polytope Representations
   </h3>
   <p>
-		<img src="{{site..baseurl }}/assets/polytope.png" alt="Inference1" style="float:right;width:30%;" hspace="10" vspace="50">
+		<img src="{{site..baseurl }}/assets/polytope.png" alt="Inference1" style="float:right;width:40%;" hspace="10" vspace="50">
 	</p>
   <p>
 		As humans, we are able to seamlessly integrate our senses of sight and touch to learn about our physical world. These two modalities provide complementary information, for where sight provides global but coarse information, touch provides dense and highly descriminative but very local information. Not only do we see and feel our world, but we also catagorize and build useful abstractions to facilitate our manipulation skills. For example, when interacting with a door, we may infer it is locked or open (two useful abstractions we have constructed) through how it feels and moves. In this project, we explore how to enable a robot to autonomously build useful abstractions and physics models, in the joint domain of touch and vision, for a robot learning the mechanics of Jenga.
@@ -48,7 +48,7 @@ permalink: Research.html
     Task-prioritized Multi-task Control Framework for Mobile Manipulators
   </h3>
   <p>
-		<img src="{{site..baseurl }}/assets/ControlNullspace.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25" vspace="50">
+		<img src="{{site..baseurl }}/assets/ControlNullspace.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25">
 	</p>
   <p>
 		Let's assume we have a rigid-body system (for example a robotic manipulator) making and breaking contact with the environment. How can we infer physical properties such masses, inertias, and contact properties simultanously with contact forces? Most importantly, how can we infer these properties without breaking the trajectory into contact-free and contacting segments and individually studying each? Is there a way in which we can consider the full trajectory of the system including contacts in one framework?
