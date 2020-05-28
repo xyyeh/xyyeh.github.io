@@ -19,11 +19,11 @@ title: Xiyang Yeh
 
 	<p>
 		Prior to Stanford, I was a researcher at <a href="https://www.a-star.edu.sg/simtech" target="_blank">
-		Singapore Institude of Manufacturing Technology</a> where I mostly worked on controls and design of industrial robots and inspection systems based on continuum kinematics.
+		Singapore Institude of Manufacturing Technology</a> where I worked on force control of industrial robots applied to polishing and grinding tasks. I was also involved in designing continuum robotic platforms for inspection tasks.
 	</p>
 
 	<p>
-		I have a BSc from National University of Singapore, where I worked
+		I have a BEng from National University of Singapore, where I worked
 		on controls of humanoids and hardware parallelization computer vision algorithms.
 	</p>
 
