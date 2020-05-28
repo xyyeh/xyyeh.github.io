@@ -28,7 +28,7 @@ permalink: Research.html
     Manipulator Performance With Polytope Representations
   </h3>
   <p>
-		<img src="{{site..baseurl }}/assets/polytope1.png" alt="polytope" style="float:right;width:40%;" hspace="10" vspace="50">
+		<img src="{{site..baseurl }}/assets/polytope1.png" alt="polytope" style="float:right;width:40%;" hspace="10" vspace="0">
 	</p>
   <p>
 		As humans, we are able to seamlessly integrate our senses of sight and touch to learn about our physical world. These two modalities provide complementary information, for where sight provides global but coarse information, touch provides dense and highly descriminative but very local information. Not only do we see and feel our world, but we also catagorize and build useful abstractions to facilitate our manipulation skills. For example, when interacting with a door, we may infer it is locked or open (two useful abstractions we have constructed) through how it feels and moves. In this project, we explore how to enable a robot to autonomously build useful abstractions and physics models, in the joint domain of touch and vision, for a robot learning the mechanics of Jenga.
