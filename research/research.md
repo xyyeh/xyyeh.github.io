@@ -31,6 +31,8 @@ permalink: Research.html
 		<img src="{{site..baseurl }}/assets/polytope1.png" alt="polytope" style="float:right;width:40%;" hspace="0" vspace="0">
 	</p>
   <p>
+    In the study of manipulator performance, much attention has been given to the study of kinematic performance of manipulators. Performance metrics are often centered around the workspace volume. For example, <i>reachable</i> workspace and <i>dextrous</i> workspace volumns. To fully characterize the capability of a manipulation platform, it is equally, if not more important to study the <i>quality</i> of the workspace.
+    
     Dynamic performance concerns the ability of the mechanism to move within the workspace considering its dynamics. Several metrics such as generalized inertia ellipsoid, dynamic manipulability measure and isotropy hypersurfaces were proposed to geometrically quantify the dynamic performance of a manipulator. The notion of a metric is important since it provides a measure that can be used to guide optimization based control strategies, analysis of motion policies and dimensional optimization of mechanisms.
 
 		<!-- As humans, we are able to seamlessly integrate our senses of sight and touch to learn about our physical world. These two modalities provide complementary information, for where sight provides global but coarse information, touch provides dense and highly descriminative but very local information. Not only do we see and feel our world, but we also catagorize and build useful abstractions to facilitate our manipulation skills. For example, when interacting with a door, we may infer it is locked or open (two useful abstractions we have constructed) through how it feels and moves. In this project, we explore how to enable a robot to autonomously build useful abstractions and physics models, in the joint domain of touch and vision, for a robot learning the mechanics of Jenga. -->
@@ -38,7 +40,7 @@ permalink: Research.html
   <p>
 		<!-- Jenga captures some of the essential challenges in robotic manipulation: i) it requires sight and touch to be played, ii) it is a partial information game, iii) tower resets are expensive and time-consuming so data efficiency is critical. To touch on partial information, just from vision, it is practically impossible to tell which blocks move and which don't. This is because the mechanics of block motion are governed by micro-frictional interactions and weight distributions that are unobservable with the visual data-stream. The only way to recover necessary information is through interaction. We demonstrate that the robot is able to learn useful abstractions such as blocks that move easily or are stuck, and uses this information together with motion models to accurately and carefully extract blocks. -->
 
-    Existing measures have been focused on 
+    Existing measures have been focused on describing isotropic properties 
 	</p>
   <p>
     <a href="http://robotics.sciencemag.org/content/4/26/eaav3123.abstract"
