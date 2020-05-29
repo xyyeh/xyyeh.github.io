@@ -62,6 +62,8 @@ permalink: Research.html
   <p>
     <a href="https://link.springer.com/chapter/10.1007/978-3-319-60916-4_38"
     class="button" style="vertical-align:middle"><span>Article on OSC</span></a>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-319-60916-4_38"
+    class="button" style="vertical-align:middle"><span>Article on HQP</span></a>
 		<a href="http://journals.sagepub.com/doi/abs/10.1177/0278364917698749"
 		class="button" style="vertical-align:middle"><span>Github</span></a>
   </p>
