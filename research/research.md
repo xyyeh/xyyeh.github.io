@@ -10,7 +10,7 @@ permalink: Research.html
   </h2>
 
   <p>
-		My research interests are in <strong>Inference</strong>, <strong>Modeling/Simulation</strong>, <strong>Control</strong>, and <strong>Learning</strong> applied to <strong>Robotic Manipulation</strong>. I am interested in the complex and exciting world of physical interactions, these interactions are fundamental to the utility of real-world agents. Physical interactions are complex because they are <strong>hybrid</strong>, which means that the dynamics of the robot change as it comes into contact and whether the type of contact is permitted to stick or slide. These interactions are also <strong>difficult to model</strong> because of the complex nature of frictional contact. Though contact is complex, it provides us with a wealth of information which we can use to make <strong>inferences</strong> about the world.
+		My research interests are in <strong>controls</strong>, <strong>modeling</strong>, <strong>learning</strong>, and <strong>design</strong> applied to <strong>robotic manipulation</strong> systems. I am interested in the complex and exciting world of physical interactions, these interactions are fundamental to the utility of real-world agents. Physical interactions are complex because they are <strong>ever-changing</strong>, which means that the dynamics of the robot is changing as it moves, as it complies to the environment and when it interacts with objects that has inherent dynamics.
   </p>
   <p>
 		I develop <strong>algorithms</strong> and <strong>models</strong> that allow robots to intelligently and autonomously interact with and learn from their environment in the real-world. I have worked on both <strong>model-based</strong> and <strong>machine learning</strong> approaches and believe there is a world in which we can combine our knowledge of physics and data-driven approaches to garner the best of both worlds.
@@ -31,10 +31,14 @@ permalink: Research.html
 		<img src="{{site..baseurl }}/assets/polytope1.png" alt="polytope" style="float:right;width:40%;" hspace="0" vspace="0">
 	</p>
   <p>
-		As humans, we are able to seamlessly integrate our senses of sight and touch to learn about our physical world. These two modalities provide complementary information, for where sight provides global but coarse information, touch provides dense and highly descriminative but very local information. Not only do we see and feel our world, but we also catagorize and build useful abstractions to facilitate our manipulation skills. For example, when interacting with a door, we may infer it is locked or open (two useful abstractions we have constructed) through how it feels and moves. In this project, we explore how to enable a robot to autonomously build useful abstractions and physics models, in the joint domain of touch and vision, for a robot learning the mechanics of Jenga.
+    Dynamic performance concerns the ability of the mechanism to move within the workspace considering its dynamics. Several metrics such as generalized inertia ellipsoid, dynamic manipulability measure and isotropy hypersurfaces were proposed to geometrically quantify the dynamic performance of a manipulator. The notion of a metric is important since it provides a measure that can be used to guide optimization based control strategies, analysis of motion policies and dimensional optimization of mechanisms.
+
+		<!-- As humans, we are able to seamlessly integrate our senses of sight and touch to learn about our physical world. These two modalities provide complementary information, for where sight provides global but coarse information, touch provides dense and highly descriminative but very local information. Not only do we see and feel our world, but we also catagorize and build useful abstractions to facilitate our manipulation skills. For example, when interacting with a door, we may infer it is locked or open (two useful abstractions we have constructed) through how it feels and moves. In this project, we explore how to enable a robot to autonomously build useful abstractions and physics models, in the joint domain of touch and vision, for a robot learning the mechanics of Jenga. -->
 	</p>
   <p>
-		Jenga captures some of the essential challenges in robotic manipulation: i) it requires sight and touch to be played, ii) it is a partial information game, iii) tower resets are expensive and time-consuming so data efficiency is critical. To touch on partial information, just from vision, it is practically impossible to tell which blocks move and which don't. This is because the mechanics of block motion are governed by micro-frictional interactions and weight distributions that are unobservable with the visual data-stream. The only way to recover necessary information is through interaction. We demonstrate that the robot is able to learn useful abstractions such as blocks that move easily or are stuck, and uses this information together with motion models to accurately and carefully extract blocks.
+		<!-- Jenga captures some of the essential challenges in robotic manipulation: i) it requires sight and touch to be played, ii) it is a partial information game, iii) tower resets are expensive and time-consuming so data efficiency is critical. To touch on partial information, just from vision, it is practically impossible to tell which blocks move and which don't. This is because the mechanics of block motion are governed by micro-frictional interactions and weight distributions that are unobservable with the visual data-stream. The only way to recover necessary information is through interaction. We demonstrate that the robot is able to learn useful abstractions such as blocks that move easily or are stuck, and uses this information together with motion models to accurately and carefully extract blocks. -->
+
+    Existing measures have been focused on 
 	</p>
   <p>
     <a href="http://robotics.sciencemag.org/content/4/26/eaav3123.abstract"
@@ -48,7 +52,7 @@ permalink: Research.html
     Task-prioritized Multi-task Control Framework for Mobile Manipulators
   </h3>
   <p>
-		<img src="{{site..baseurl }}/assets/ControlNullspace.jpg" alt="Inference1" style="float:right;width:40%;" hspace="0" vspace="0">
+		<img src="{{site..baseurl }}/assets/ControlNullspace.jpg" alt="taskPrioritizedController" style="float:right;width:40%;" hspace="0" vspace="0">
 	</p>
   <p>
 		Let's assume we have a rigid-body system (for example a robotic manipulator) making and breaking contact with the environment. How can we infer physical properties such masses, inertias, and contact properties simultanously with contact forces? Most importantly, how can we infer these properties without breaking the trajectory into contact-free and contacting segments and individually studying each? Is there a way in which we can consider the full trajectory of the system including contacts in one framework?
