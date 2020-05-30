@@ -132,10 +132,13 @@ permalink: Research.html
 <!-- Entry 4 -->
   <hr>
   <h3>
-    Robotic Pick & Place
+    Planning and Controls - Where should we draw the line?
   </h3>
   <p>
     <img src="{{site..baseurl }}/assets/ARC_w_background.png" alt="arc1" style="float:right;width:40%;" hspace="25">
+  </p>
+  <p>
+    A study on fusing task design and planning, starting from OSC, DMP to RMP.
   </p>
   <p>
     An important challenge in warehouse automation is automating the process of finding and moving objects desired objects from one place to another. We developed an autonomous system that does exactly this and competed in the Amazon Robotics Challenge (2015-2017), with consistent top 3 placements and winning 1st place in stowing in 2017.
