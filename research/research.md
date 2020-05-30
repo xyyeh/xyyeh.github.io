@@ -54,10 +54,13 @@ permalink: Research.html
 		<img src="{{site..baseurl }}/assets/ControlNullspace.jpg" alt="taskPrioritizedController" style="float:right;width:40%;" hspace="0" vspace="0">
 	</p>
   <p>
-		Let's assume we have a rigid-body system (for example a robotic manipulator) making and breaking contact with the environment. How can we infer physical properties such masses, inertias, and contact properties simultanously with contact forces? Most importantly, how can we infer these properties without breaking the trajectory into contact-free and contacting segments and individually studying each? Is there a way in which we can consider the full trajectory of the system including contacts in one framework?
+		Mobile manipulation systems must perform a variety of tasks, acquire new skills and apply these skills in novel situations. A versatile mobile manipulation system is often equiped with redundant joints, resulting in high-dimensional state spaces. Coordination between these actuators to produce effective task and postural behaviours is a challenge. The complexity is further increased when dealing with contacts and underactuation.
 	</p>
   <p>
-		In this project, we developed a mathematical framework that: i) tells us explicitly what parameters/forces are identifiable given the types of observations available, and ii) provides a formulation to compute these quantities given a time-series of observations under the assumption of rigid-body frictional interactions without the need to explicitly identify and enumrate contact events. This formulation yields a nonlinear optimization program that can be solved for the desired properties given noisy state measurements.
+    Several control strategies have been proposed to project joint level dynamics to end-effector level dynamics where task-posture decoupling is implemented. While early strategies have focused on decoupling at the velocity level, recent mechatronic advances the application of torque-controlled actuators for articulated robotic systems have spurred interest in resolving redundancies at the acceleration level. Two main strategies in this area are the operational space control framework and the hierarchichal quadratic programming framework.
+  </p>
+  <p>
+		In this project, we explore the similarity and differences between these two frameworks.
 	</p>
   <p>
     <a href="https://link.springer.com/chapter/10.1007/978-3-319-60916-4_38"
