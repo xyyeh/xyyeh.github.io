@@ -60,7 +60,7 @@ permalink: Research.html
     Several control strategies have been proposed to project joint level dynamics to end-effector level dynamics where task-posture decoupling is implemented. While early strategies have focused on decoupling at the velocity level, recent mechatronic advances the application of torque-controlled actuators for articulated robotic systems have spurred interest in resolving redundancies at the acceleration level. Two main strategies in this area are the operational space control framework and the hierarchichal quadratic programming framework.
   </p>
   <p>
-		In this project, we explore the similarity and differences between these two frameworks both mathematically and from implementation.
+		In this project, we explore the similarity and differences between these two frameworks both mathematical and implementation point of view. Mathematically, we provide derivations to transform one to the other and show that the OSC framework is a special case of HQP when the objective function is chosen to optimize for kinetic energy.
 	</p>
   <p>
     <a href="https://link.springer.com/chapter/10.1007/978-3-319-60916-4_38"
