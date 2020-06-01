@@ -156,7 +156,7 @@ permalink: Research.html
   <!-- Masters -->
   <hr>
   <h2>
-    Masters Research:
+    Learning:
   </h2>
 
   <p>
@@ -175,7 +175,7 @@ permalink: Research.html
 	</p>
   <hr>
   <h3>
-    Estimating Cardiac Output and Peripheral Resistance
+    Peg-in-hole revisited
   </h3>
   <p>
     <img src="{{site..baseurl }}/assets/cardiac-1.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25" vspace="50">
@@ -190,7 +190,7 @@ permalink: Research.html
     <a href="https://www.frontiersin.org/articles/10.3389/fphys.2012.00298/full"
     class="button" style="vertical-align:middle"><span>Frontiers 2012</span></a>
   </p>
-<!-- Entry 2 -->
+  <!-- Entry 2 -->
   <hr>
   <h3>
     Cardiovascular Modeling and System Identification
