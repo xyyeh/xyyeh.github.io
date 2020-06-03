@@ -79,7 +79,7 @@ permalink: Research.html
     <img src="{{site..baseurl }}/assets/contact-1.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25">
   </p>
   <p>
-    The study of articulated rigid body systems revolves round the appreciation of interesting physical properties behind the composite dynamics of the system. In particular, such a system can be decomposed into macro and mini structures. A prominent example is a mobile manipulation platform, where the base forms the macro structure while the highly dynamic manipulator forms the mini structure.
+    The study of articulated rigid body systems revolves round the appreciation of interesting physical properties behind the composite dynamics of the system. In particular, such a system can be decomposed into macro and mini structures, each complementing the other. A prominent example is a mobile manipulation platform, where the base forms the macro structure while the highly dynamic manipulator forms the mini structure.
     
     Rigid-body contact models are extremely important to predicting, planning, and control of robotic interactions adn serve as the foundations to many simulators. An important lesson we learned during the parameter and force identification project was the variable sensitivity to the particular model choice. In light of this, we decided to compare 6 commonly used rigid-body contact models using the time-stepping complementarity formulation and evaluate their predictive abilities empircally.
   </p>
