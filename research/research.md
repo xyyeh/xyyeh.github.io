@@ -79,12 +79,10 @@ permalink: Research.html
     <img src="{{site..baseurl }}/assets/contact-1.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25">
   </p>
   <p>
-    The study of articulated rigid body systems revolves round the appreciation of interesting physical properties behind the composite dynamics of the system. In particular, such a system can be decomposed into macro and mini structures. A prominent example is a mobile manipulation platform, where the base forms the macro structure while the highly dynamic manipulator forms the mini structure.
-    
-    Rigid-body contact models are extremely important to predicting, planning, and control of robotic interactions adn serve as the foundations to many simulators. An important lesson we learned during the parameter and force identification project was the variable sensitivity to the particular model choice. In light of this, we decided to compare 6 commonly used rigid-body contact models using the time-stepping complementarity formulation and evaluate their predictive abilities empircally.
+    The study of articulated rigid body systems revolves round the appreciation of interesting physical properties behind the composite dynamics of the system. In particular, such a system can be decomposed into macro and mini structures, each complementing the other. A prominent example is a mobile manipulation platform, where the base forms the macro structure while the highly dynamic manipulator forms the mini structure. Analyses based on macro/mini structures have been limited in literature.
   </p>
   <p>
-    In this project, we: i) developed a principled formulation for contact model parameter estimation using the Energy Ellipse, ii) compared the predictive performance of the models on an empirical planar impact data-set (publicly available), and iii) showed the challenges in model identification and issues of predictive performance, in particular by showing an empirical upper-bound on the performance of these models and a theoretical upper-bound on the task for which no model generated from the rigid-body approximation can breach. Our findings served to highlight challenges in contact modeling and that simulations are perhaps not as reliable as we hope or like to believe.
+    In our study, we delve into methods to make sense of the dynamics of mobile manipulator systems and provide insights as to how we can leverage the inherent dynamics to synthesize effective guidelines in designs and principled formulations for optimal controllers.
   </p>
   <p>
     <img src="{{site..baseurl }}/assets/pushing.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25">
