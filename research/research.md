@@ -82,7 +82,7 @@ permalink: Research.html
     The study of articulated rigid body systems revolves round the appreciation of interesting physical properties behind the composite dynamics of the system. In particular, such a system can be decomposed into macro and mini structures, each complementing the other. A prominent example is a mobile manipulation platform, where the base forms the macro structure while the highly dynamic manipulator forms the mini structure. Analyses based on macro/mini structures have been limited in literature.
   </p>
   <p>
-    In our study, we delve into methods to make sense of the dynamics of mobile manipulator systems and provide insights as to how we can leverage the inherent dynamics to synthesize effective guidelines in designs and principled formulations for optimal controllers.
+    In our study, we delve into methods to make sense of the dynamics of mobile manipulator systems and provide insights as to how we can leverage the inherent dynamics to synthesize effective guidelines in designs and principled formulations for optimal controllers. The maneuver of interest in our study is docking. Docking is one of the many challenging maneuvers that space and underwater mobile manipulators are required to perform in order to complete mission critical objectives. As these systems transit from free space motion to constrained motions, momentum gathered during the pre-impact phase needs to be dissipated in a short time span.
   </p>
   <p>
     <img src="{{site..baseurl }}/assets/pushing.jpg" alt="Inference1" style="float:right;width:40%;" hspace="25">
