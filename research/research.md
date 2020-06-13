@@ -129,6 +129,56 @@ permalink: Research.html
     <a href="https://arxiv.org/abs/1808.03246"
     class="button" style="vertical-align:middle"><span>arXiv 2018</span></a>
   </p>
+
+<!-- Combining Impedance and Direct Force Control -->
+  <hr>
+  <h3>
+    Planning and Controls - Where should we draw the line?
+  </h3>
+  <p>
+    <img src="{{site..baseurl }}/assets/ARC_w_background.png" alt="arc1" style="float:right;width:40%;" hspace="25">
+  </p>
+  <p>
+    A study on fusing task design and planning, starting from OSC, DMP to RMP.
+  </p>
+  <p>
+    An important challenge in warehouse automation is automating the process of finding and moving objects desired objects from one place to another. We developed an autonomous system that does exactly this and competed in the Amazon Robotics Challenge (2015-2017), with consistent top 3 placements and winning 1st place in stowing in 2017.
+  </p>
+  <p>
+    The key challenge here is that the robot does not know what the majority of objects are prior to interaction. As such, it needs to understand which objects to go for, and which modality of manipulation it needs to employ for success. Watch our video for more information. Building and developing robotic systems for industry has two key benefits: developing strong practical expertise and grounding research in real-world applications. The challenge provided us with a unique opportunity to understand industry needs and strengthen our relationships with our industry partners. In particular, the challenges in object state and parameter estimation in highly-cluttered and partially observable scenarios has served as inspiration for my research.
+  </p>
+  <p>
+    <a href="https://arxiv.org/abs/1604.03639"
+    class="button" style="vertical-align:middle"><span>arXiv 2015</span></a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8461044/"
+    class="button" style="vertical-align:middle"><span>ICRA 2018</span></a>
+  </p>
+
+
+<!-- Multi-effector Impedance Control -->
+  <hr>
+  <h3>
+    Planning and Controls - Where should we draw the line?
+  </h3>
+  <p>
+    <img src="{{site..baseurl }}/assets/ARC_w_background.png" alt="arc1" style="float:right;width:40%;" hspace="25">
+  </p>
+  <p>
+    A study on fusing task design and planning, starting from OSC, DMP to RMP.
+  </p>
+  <p>
+    An important challenge in warehouse automation is automating the process of finding and moving objects desired objects from one place to another. We developed an autonomous system that does exactly this and competed in the Amazon Robotics Challenge (2015-2017), with consistent top 3 placements and winning 1st place in stowing in 2017.
+  </p>
+  <p>
+    The key challenge here is that the robot does not know what the majority of objects are prior to interaction. As such, it needs to understand which objects to go for, and which modality of manipulation it needs to employ for success. Watch our video for more information. Building and developing robotic systems for industry has two key benefits: developing strong practical expertise and grounding research in real-world applications. The challenge provided us with a unique opportunity to understand industry needs and strengthen our relationships with our industry partners. In particular, the challenges in object state and parameter estimation in highly-cluttered and partially observable scenarios has served as inspiration for my research.
+  </p>
+  <p>
+    <a href="https://arxiv.org/abs/1604.03639"
+    class="button" style="vertical-align:middle"><span>arXiv 2015</span></a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/8461044/"
+    class="button" style="vertical-align:middle"><span>ICRA 2018</span></a>
+  </p>
+
 <!-- Entry 4 -->
   <hr>
   <h3>
